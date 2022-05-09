@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPpl5_4.Data", "ReactPpl5_4.Data\ReactPpl5_4.Data.csproj", "{8D32563E-2CF0-4F54-AB6E-1B84A33CBAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactPpl5_4.Web", "ReactPpl5_4.Web\ReactPpl5_4.Web.csproj", "{C522E252-2281-4176-926E-EC8A5CF46285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D32563E-2CF0-4F54-AB6E-1B84A33CBAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D32563E-2CF0-4F54-AB6E-1B84A33CBAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D32563E-2CF0-4F54-AB6E-1B84A33CBAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D32563E-2CF0-4F54-AB6E-1B84A33CBAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C522E252-2281-4176-926E-EC8A5CF46285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C522E252-2281-4176-926E-EC8A5CF46285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C522E252-2281-4176-926E-EC8A5CF46285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C522E252-2281-4176-926E-EC8A5CF46285}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD5DD68-5EA7-41EB-AE66-5908C10CD6F4}
+	EndGlobalSection
+EndGlobal
